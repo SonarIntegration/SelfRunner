@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubantu-latest
 
     env:
       GREETING: "Hello"
