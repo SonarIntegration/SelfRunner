@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: SelfHosted
+    runs-on: self-hosted
 
     env:
       GREETING: "Hello"
